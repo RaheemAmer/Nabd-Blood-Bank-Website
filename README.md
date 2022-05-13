@@ -1,7 +1,7 @@
 # Blood-Bank-Management-Project
 A mern stack project  
 
-## Requirements
+## Requirements:
 
 * Operating System: Windows, MacOS or Linux
 * [Node.js](https://nodejs.org/) 
@@ -9,22 +9,13 @@ A mern stack project
 
 ## Quick Start
 
-#### Setup
+#### Setup:
 
 ```bash
 npm install
-
-# Install MongoDB
-brew tap mongodb/brew
-brew install mongodb-community
 ```
 
-Start the database
-```bash
-brew services start mongodb-community
-```
-
-#### for Development
+#### for Development:
 
 Start the client
 ```bash
@@ -36,14 +27,14 @@ Start the server
 npm start
 ```
 
-#### for Production
+#### for Production:
 
 ```bash
 npm run build
 npm start
 ```
 
-#### Other Commands
+#### Other Commands:
 
 ```bash
 npm test
@@ -54,7 +45,7 @@ npm run test:watch-client
 npm run test:watch-server
 ```
 
-## Features
+## Features:
 
 * Webpack conveniently bundles your code for you.
 * Babel lets you use ES6/7 features.
@@ -62,7 +53,7 @@ npm run test:watch-server
 * ESLint helps you maintain a high level of code quality.
 * Jest gives you a robust testing framework to make sure your code works.
 
-## Code Structure
+## Code Structure (Initial Plan):
 
 ```
 - client
@@ -92,13 +83,13 @@ npm run test:watch-server
 - scripts
 ```
 
-Component Heirarchy:
+Component Heirarchy (Initial Plan):
 
 Environment > Pages > Templates > Organisms > Molecules > Atoms
 
 This is based on atomic design. Learn more about [atomic design](http://bradfrost.com/blog/post/atomic-web-design/).
 
-## Technologies
+## Technologies:
 
 [React](https://facebook.github.io/react/) - View Library
 
