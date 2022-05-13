@@ -1,7 +1,7 @@
-# Blood-Bank-Management-Project
+# Blood-Bank-Management-Project (Under Development)
 A mern stack project  
 
-## Requirements:
+## Requirements (Initial Plan):
 
 * Operating System: Windows, MacOS or Linux
 * [Node.js](https://nodejs.org/) 
@@ -9,13 +9,13 @@ A mern stack project
 
 ## Quick Start
 
-#### Setup:
+#### Setup (Initial Plan):
 
 ```bash
 npm install
 ```
 
-#### for Development:
+#### for Development (Initial Plan):
 
 Start the client
 ```bash
@@ -27,14 +27,14 @@ Start the server
 npm start
 ```
 
-#### for Production:
+#### for Production (Initial Plan):
 
 ```bash
 npm run build
 npm start
 ```
 
-#### Other Commands:
+#### Other Commands (Initial Plan):
 
 ```bash
 npm test
@@ -45,7 +45,7 @@ npm run test:watch-client
 npm run test:watch-server
 ```
 
-## Features:
+## Features (Initial Plan):
 
 * Webpack conveniently bundles your code for you.
 * Babel lets you use ES6/7 features.
@@ -53,7 +53,7 @@ npm run test:watch-server
 * ESLint helps you maintain a high level of code quality.
 * Jest gives you a robust testing framework to make sure your code works.
 
-## Code Structure (Initial Plan):
+<!-- ## Code Structure (Initial Plan):
 
 ```
 - client
@@ -122,7 +122,7 @@ This is based on atomic design. Learn more about [atomic design](http://bradfros
 [ESLint](http://eslint.org/) - Code Linter
 
 [Jest](https://jestjs.io/) - Testing Framework
-MongoDB Express.js React.js Node.js
+MongoDB Express.js React.js Node.js -->
 
 ### Check the contributors to this project
 - [Contributors-List](https://github.com/RaheemAmer/Blood-Bank-Management-Project/blob/main/Contributors.md)
