@@ -15,9 +15,3 @@
 3. https://classroom.udacity.com/courses/ud775
 4. https://goo.gl/BNnzpj
 
-### Contributors:
-1. [Raheem Amer](https://github.com/RaheemAmer)
-2. []()
-3. []()
-4. []()
-5. []()
