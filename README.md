@@ -127,6 +127,7 @@ MongoDB Express.js React.js Node.js -->
 ### Documentation:
 - [Trello](https://trello.com/b/ej6NF8AM/blood-bank-management-systemscrum)
 - [Meeting1-Notes](https://docs.google.com/document/d/1hL0jzkD67dqmifV7SRpRDPQ_BbkCAwnBEVBBhGVqb-0/edit?usp=sharing)
+- [Meeting2-Notes](https://docs.google.com/document/d/1hL0jzkD67dqmifV7SRpRDPQ_BbkCAwnBEVBBhGVqb-0/edit?usp=sharing)
 
 ### Check the contributors to this project
 <a href="https://github.com/RaheemAmer/Blood-Bank-Management-Project/graphs/contributors">
