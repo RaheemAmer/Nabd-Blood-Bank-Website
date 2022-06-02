@@ -22,5 +22,5 @@ pencil كويس جدا والتعامل معاه سهل
 طبعا فيه ناس عندها امتحانات ف الديدلاين هيكون يوم 5 June 
 الديدلاين طويل وخدوا وقتكم ف الشغل وما تضغطوش نفسكم
 ## Tasks links:
--[Trello](https://trello.com/b/ej6NF8AM/blood-bank-management-systemscrum)
--[Wireframe]()
+- [Trello](https://trello.com/b/ej6NF8AM/blood-bank-management-systemscrum)
+- [Wireframe]()
