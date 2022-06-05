@@ -127,6 +127,8 @@ MongoDB Express.js React.js Node.js -->
 ## Documentation, tools and utilities:
 ### Project Management tool:
 - [Trello](https://trello.com/b/ej6NF8AM/blood-bank-management-systemscrum)
+### Sitemap
+- [Sitemap for website](https://miro.com/app/board/uXjVOwePXwM=/?share_link_id=690539934728)
 ### Meetings Notes:
 - [Meeting1-Notes](https://github.com/RaheemAmer/Nabd-Blood-Bank-Website/blob/main/Assets/Notes/Project%20Meeting-1.pdf)
 - [Meeting2-Notes](https://github.com/RaheemAmer/Nabd-Blood-Bank-Website/blob/main/Assets/Notes/Project%20Meeting-2.pdf)
