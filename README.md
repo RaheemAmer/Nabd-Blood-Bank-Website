@@ -124,12 +124,17 @@ This is based on atomic design. Learn more about [atomic design](http://bradfros
 [Jest](https://jestjs.io/) - Testing Framework
 MongoDB Express.js React.js Node.js -->
 
-### Documentation, tools and utilities:
+## Documentation, tools and utilities:
+### Project Management tool:
 - [Trello](https://trello.com/b/ej6NF8AM/blood-bank-management-systemscrum)
+### Meetings Notes:
 - [Meeting1-Notes](https://docs.google.com/document/d/1hL0jzkD67dqmifV7SRpRDPQ_BbkCAwnBEVBBhGVqb-0/edit?usp=sharing)
 - [Meeting2-Notes](https://docs.google.com/document/d/1hL0jzkD67dqmifV7SRpRDPQ_BbkCAwnBEVBBhGVqb-0/edit?usp=sharing)
+### Tasks:
+- [Task1](https://docs.google.com/document/d/1hL0jzkD67dqmifV7SRpRDPQ_BbkCAwnBEVBBhGVqb-0/edit?usp=sharing)
+- [Task2](https://docs.google.com/document/d/1hL0jzkD67dqmifV7SRpRDPQ_BbkCAwnBEVBBhGVqb-0/edit?usp=sharing)
 
-### Check the contributors to this project:
+## Check the contributors to this project:
 <a href="https://github.com/RaheemAmer/Blood-Bank-Management-Project/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=RaheemAmer/Blood-Bank-Management-Project" />
 </a>
