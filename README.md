@@ -1,4 +1,4 @@
-# Blood-Bank-Management-Project (Under Development)
+#  Nabd-Blood-Bank-Website (Under Development)
 A mern stack project  
 
 ## Requirements (Initial Plan):
